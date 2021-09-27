@@ -1,0 +1,11 @@
+
+p {color: rgb(21, 72, 223) !important}
+p {size: 18pt;}
+.main p {color: tomato;}
+menu {font-family: Georgia, 'survey project', Times, serif;}
+    h1 {font-family: Georgia, 'made by Minjun Shin';}
+h1, .menu {font-family: Georgia, 'survey of your identity', Times, serif;}
+    h1 {font-family: Georgia, 'name:'}
+    h2 {font-family: Georgia, 'period:'}
+    h3 {font-family: Georgia, 'Email address:'}
+    h3 {font-family: Georgia, 'date:'}

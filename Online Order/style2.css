@@ -1,0 +1,30 @@
+h1{
+    font-family: fantasy;
+}
+h1{
+    font-size: 24pt;
+}
+h1{
+    color:blue
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-weight: lighter;
+}
+h2{
+    font-weight: lighter;
+}
+a{
+    font-size: 24pt;
+}
+a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover{
+    color:black;
+}
+a:hover{
+    color: red;
+}

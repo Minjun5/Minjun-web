@@ -1,0 +1,29 @@
+#inline{
+    display: flex
+}
+    
+#inline{
+    align-items: flex-start;
+    background-color: burlywood;
+    width: 300px; height: 600px;
+}
+#inline2{
+    justify-content: right;
+    background-color: blue;
+    width: 300px; height: 600px;
+
+}
+#inline{
+    justify-self: start;
+    background-color: chocolate;
+    width: 300px; height: 600px;
+}
+
+#container {
+    display: flex;
+}
+#container{
+    display: flex;
+    background-color: cornflowerblue;
+    
+}

@@ -35,7 +35,6 @@ const part1= secretMessage.slice(24)
 console.log(part1)
 console.log(part1.length)
 function part2(A)
-{if(A.length>2){return 'UPDATED'}
-else {return 'undefined'}}
-console.log(part2(secretMessage))
+{if(A.length>2){return secretMessage}
+else {return ''}}
 console.log(part2(part1))

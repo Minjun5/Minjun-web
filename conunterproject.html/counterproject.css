@@ -1,0 +1,25 @@
+button {
+    width: 90px;
+    height: 60px;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+h2{
+    color: black;
+    font-size: 45px;
+}
+button:hover{
+    background-color: blueviolet;
+}
+div{
+     
+    width: 400px;
+    background-color: green;
+    
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: blue;
+}
